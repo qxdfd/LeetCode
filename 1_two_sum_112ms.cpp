@@ -1,3 +1,4 @@
+//将数组分为了三个部分，大于target/2和小于target/2还有等于，然后进行查找
 //112ms
 class Solution {
 public:
